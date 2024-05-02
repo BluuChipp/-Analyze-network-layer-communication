@@ -1,4 +1,3 @@
-# Networks and Network Security 
 
 # Analyze network layer communication
 - analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. identify network protocol utilized in assessment of an cybersecurity incident.  
