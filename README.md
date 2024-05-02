@@ -1,11 +1,7 @@
 # -Analyze network layer communication
 
-
 # Project Objective
-- analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. identify which network protocol was utilized in assessment of the cybersecurity incident.  
-
-You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website and saw the error 
-“destination port unreachable” after waiting for the page to load.
+- analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. identify network protocol utilized in assessment of the cybersecurity incident.  
 
 # Tools 
 - network analyzer tool tcpdump
@@ -17,4 +13,7 @@ You are a cybersecurity analyst working at a company that specializes in providi
 Network Operations  - network protocols and how network communication can introduce vulnerabilities, security measures, like firewalls, that help network operations remain safe and reliable.
 
 # Outcomes 
-- Talk about what you achieved, use screenshots!-
+
+Cybersecurity incident report network traffic https://tinyurl.com/v52np87t
+
+in the file above I used a Cybersecurity Network Traffic Incident Report to document details about an malicious attack on a companys network. 
