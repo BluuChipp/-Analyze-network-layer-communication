@@ -1,7 +1,7 @@
 # -Analyze network layer communication
 
 # Project Objective
-- analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. identify network protocol utilized in assessment of the cybersecurity incident.  
+- analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. identify network protocol utilized in assessment of an cybersecurity incident.  
 
 # Tools 
 - network analyzer tool tcpdump
